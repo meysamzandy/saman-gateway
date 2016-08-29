@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name:  درگاه بانک سامان ووکامرس
-Plugin URI: http://newtheme.org
+Plugin URI: https://github.com/meysamzandy/saman-gateway
 Description: افزودن درگاه پرداخت بانک سامان به فروشگاه ساز ووکامرس
 Version: 1.0
 Author: میثم زندی
